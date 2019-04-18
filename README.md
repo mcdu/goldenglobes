@@ -20,3 +20,8 @@ Sample GG-related tweet:
 
 [{u'id': 554402424728072192, u'text': u'just had to scramble to find a golden globes stream for my brother. :D', u'user': {u'id': 19904553, u'screen_name': u'baumbaTz'}, u'timestamp_ms': u'1421014813011'}, {"text": "What?!? https://t.co/NSPtGtbCvO", "id_str": "950142397194821632"}, ...
 ]
+
+File information:
+dic.txt is a dictionary of Twitter handles to the name tied to the account. Created with the help of Tweepy.
+gg-extractor.py is the source code
+gtweets.dat is the JSON dataset of relevant tweets
