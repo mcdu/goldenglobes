@@ -1,5 +1,5 @@
 # goldenglobes
-This project is a tool for extracting award ceremony information given a dataset of tweets related to that ceremony. This initial version focuses on the 2015 Golden Globes to try to determine:
+This (unfinished) project is a tool for extracting award ceremony information given a dataset of tweets related to that ceremony. This initial version focuses on the 2015 Golden Globes to try to determine:
 
 1. Host(s) (for the entire ceremony)
 2. Award Names
