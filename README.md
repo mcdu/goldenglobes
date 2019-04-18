@@ -22,6 +22,9 @@ Sample GG-related tweet:
 ]
 
 File information:
+
 dic.txt is a dictionary of Twitter handles to the name tied to the account. Created with the help of Tweepy.
+
 gg-extractor.py is the source code
+
 gtweets.dat is the JSON dataset of relevant tweets
