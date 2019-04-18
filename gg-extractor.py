@@ -3,9 +3,9 @@ import json
 import heapq
 from pprint import pprint
 lines = []
-#with open("C:/Users/matt/Documents/NU/eecs337/hw1/dic.txt", 'r') as f:
+#with open("~/path/to/dic.txt", 'r') as f:
 #    handle2name = json.load(f)
-with open("C:/Users/matt/Documents/NU/eecs337/hw1/gtweets.dat") as f:
+with open("~/path/to/gtweets.dat") as f:
     for line in f:
         if line[:5] == '"RT @':
             start = line.find(':')+2
